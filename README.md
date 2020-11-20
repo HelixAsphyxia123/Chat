@@ -4,6 +4,8 @@ Se desarrollo una aplicacion la cual realiza un chat entre cliente y servidor a 
 
 # Link del funcionamiento del programa.
 
+https://flipgrid.com/6ce45bf2
+
 # Elementos visuales y funcionamiento.
 
 -Se muestra dos ejecutables, el primero es el llamado "Principal Chat" el cual lanza nuestro servidor y a ese mismo se le asigna una direccion establecida por el usuario.
